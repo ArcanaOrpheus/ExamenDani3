@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aula>
+    <aireacondicionat>true</aireacondicionat>
+    <capacitat>25</capacitat>
+    <maquines>
+        <maquina>
+            <grafica>false</grafica>
+            <processador>i3</processador>
+        </maquina>
+        <maquina>
+            <grafica>false</grafica>
+            <processador>i5</processador>
+        </maquina>
+        <maquina>
+            <grafica>false</grafica>
+            <processador>PENTIUM II</processador>
+        </maquina>
+    </maquines>
+    <nom>C4</nom>
+</aula>

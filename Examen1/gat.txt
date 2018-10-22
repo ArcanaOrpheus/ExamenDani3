@@ -1,0 +1,1 @@
+Gat [nom=jojo, raza=dio, edat=1, menjarPreferit=comida, capat=false]

@@ -1,0 +1,22 @@
+<aula>
+	<nom>C4</nom>
+	<capacitat>25</capacitat>
+	<aireacondicionat>true</aireacondicionat>
+	<maquines>
+		<maquina>
+			<nom>c-4-10</nom>
+			<processador>i3</processador>
+			<grafica>false</grafica>
+		</maquina>
+		<maquina>
+			<nom>c-4-11</nom>
+			<processador>i5</processador>
+			<grafica>false</grafica>
+		</maquina>
+		<maquina>
+			<nom>c-4-12</nom>
+			<processador>PENTIUM II</processador>
+			<grafica>false</grafica>
+		</maquina>
+	</maquines>
+</aula>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<institut>
+    <alumnes>
+        <alumne>
+            <adreca>Carrer de les Flors, 4, Sabadell</adreca>
+            <cognoms>Perez Rubarte</cognoms>
+            <DNI>48923793D</DNI>
+            <mails>
+                <mail>joanperez@gmail.com</mail>
+                <mail>xxxJoanReshulonxxx@gmail.com</mail>
+                <mail>joanet@gmail.com</mail>
+            </mails>
+            <nom>Joan</nom>
+            <telefons>
+                <telefon>665340559</telefon>
+            </telefons>
+        </alumne>
+        <alumne>
+            <adreca>Carrer Juvenal, 1, Sabadell</adreca>
+            <cognoms>Frias Estrella</cognoms>
+            <DNI>48923794E</DNI>
+            <mails>
+                <mail>friasemblem@gmail.com</mail>
+                <mail>deincognito@tor.org</mail>
+            </mails>
+            <nom>Marco</nom>
+            <telefons>
+                <telefon>665440559</telefon>
+                <telefon>832443829</telefon>
+                <telefon>839443829</telefon>
+            </telefons>
+        </alumne>
+        <alumne>
+            <adreca>Carrer del Cul del Mon, 4, Polinya</adreca>
+            <cognoms>Sunyer Gea</cognoms>
+            <DNI>44423793D</DNI>
+            <mails>
+                <mail>dani@gmail.com</mail>
+                <mail>plataforever@gmail.com</mail>
+                <mail>dsune98@gmail.com</mail>
+            </mails>
+            <nom>Dani</nom>
+            <telefons>
+                <telefon>66536659</telefon>
+                <telefon>832663829</telefon>
+                <telefon>1111111111</telefon>
+            </telefons>
+        </alumne>
+        <alumne>
+            <adreca>Carrer Siddy, 7, Sabadell</adreca>
+            <cognoms>Naranjo Oliviera</cognoms>
+            <DNI>48923755D</DNI>
+            <mails>
+                <mail>marta@gmail.com</mail>
+            </mails>
+            <nom>Marta</nom>
+            <telefons>
+                <telefon>665777779</telefon>
+            </telefons>
+        </alumne>
+        <alumne>
+            <adreca>Carrer SQL, 10, Sabadell</adreca>
+            <cognoms>De Be</cognoms>
+            <DNI>48927793D</DNI>
+            <mails>
+                <mail>maria@gmail.com</mail>
+                <mail>mysqlnogracias@gmail.com</mail>
+            </mails>
+            <nom>Maria</nom>
+            <telefons>
+                <telefon>665999959</telefon>
+                <telefon>839999929</telefon>
+            </telefons>
+        </alumne>
+    </alumnes>
+    <nom> Institut Sabadell </nom>
+</institut>
